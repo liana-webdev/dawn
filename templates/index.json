@@ -6,15 +6,8 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "your desk is missing out",
+            "heading": "<em>TURN SPACE INTO  COMFORT AND PRODUCTIVITY HUB<\/em>",
             "heading_size": "h0"
-          }
-        },
-        "text_gwN7FX": {
-          "type": "text",
-          "settings": {
-            "text": "it's not complete without our products",
-            "text_style": "body"
           }
         },
         "button": {
@@ -31,12 +24,11 @@
       },
       "block_order": [
         "heading",
-        "text_gwN7FX",
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Desktop_-_1.jpg",
-        "image_overlay_opacity": 40,
+        "image": "shopify:\/\/shop_images\/Slide_16_9_-_2.png",
+        "image_overlay_opacity": 0,
         "image_height": "large",
         "desktop_content_position": "bottom-center",
         "show_text_box": false,
