@@ -2,6 +2,7 @@
   "current": {
     "logo": "shopify:\/\/shop_images\/Group_26.png",
     "logo_width": 130,
+    "favicon": "shopify:\/\/shop_images\/logo_and_name.png",
     "type_header_font": "fs_koopman_n3",
     "heading_scale": 100,
     "type_body_font": "fs_koopman_n4",
