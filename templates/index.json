@@ -6,14 +6,21 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Dedicated to provide you with comfort and efficiency",
+            "heading": "Dedicated to providing you with efficiency",
             "heading_size": "h2"
+          }
+        },
+        "text_e6VTkT": {
+          "type": "text",
+          "settings": {
+            "text": "Innovative technology solutions to transform personal, gaming and professional spaces into hubs of productivity and comfort.",
+            "text_style": "body"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "fix it now",
+            "button_label_1": "Shop Now",
             "button_link_1": "shopify:\/\/collections\/all",
             "button_style_secondary_1": true,
             "button_label_2": "",
@@ -24,6 +31,7 @@
       },
       "block_order": [
         "heading",
+        "text_e6VTkT",
         "button"
       ],
       "settings": {
