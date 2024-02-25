@@ -35,7 +35,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Slide_16_9_-_2.png",
+        "image_2": "shopify:\/\/shop_images\/Slide_16_9_-_11_png.png",
         "image_overlay_opacity": 0,
         "image_height": "large",
         "desktop_content_position": "bottom-center",
@@ -48,8 +48,79 @@
         "show_text_below": false
       }
     },
+    "featured_product_ggr6r3": {
+      "type": "featured-product",
+      "blocks": {
+        "text_rgQYzU": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_gyjFAX": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_HYmfBz": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker_PaURrR": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "quantity_selector_BYpEXM": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons_YerfUy": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_9GcEtQ": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "text_rgQYzU",
+        "title_gyjFAX",
+        "price_HYmfBz",
+        "variant_picker_PaURrR",
+        "quantity_selector_BYpEXM",
+        "buy_buttons_YerfUy",
+        "share_9GcEtQ"
+      ],
+      "settings": {
+        "product": "with-rgb-ligjt-wireless-charger-pad-stand-alarm-clock-for-iphone-12-13-14-15-pro-airpods-pro2-samsung-fast-charging-dock-station",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "featured_collection": {
       "type": "featured-collection",
+      "disabled": true,
       "custom_css": [
         "img {background: black;}"
       ],
@@ -82,6 +153,7 @@
   },
   "order": [
     "image_banner",
+    "featured_product_ggr6r3",
     "featured_collection"
   ]
 }
