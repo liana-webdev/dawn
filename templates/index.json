@@ -16,23 +16,11 @@
             "text": "Innovative technology solutions to transform personal, gaming and professional spaces into hubs of productivity and comfort.",
             "text_style": "body"
           }
-        },
-        "button": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Shop Now",
-            "button_link_1": "shopify:\/\/collections\/all",
-            "button_style_secondary_1": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
         "heading",
-        "text_e6VTkT",
-        "button"
+        "text_e6VTkT"
       ],
       "settings": {
         "image_2": "shopify:\/\/shop_images\/Slide_16_9_-_11_png.png",
@@ -51,13 +39,6 @@
     "featured_product_ggr6r3": {
       "type": "featured-product",
       "blocks": {
-        "text_rgQYzU": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
         "title_gyjFAX": {
           "type": "title",
           "settings": {
@@ -95,7 +76,6 @@
         }
       },
       "block_order": [
-        "text_rgQYzU",
         "title_gyjFAX",
         "price_HYmfBz",
         "variant_picker_PaURrR",
