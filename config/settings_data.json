@@ -119,8 +119,16 @@
     "show_cart_note": false,
     "cart_drawer_collection": "",
     "cart_color_scheme": "accent-1",
+    "checkout_header_image": "shopify:\/\/shop_images\/Slide_16_9_-_14.jpg",
+    "checkout_logo_image": "shopify:\/\/shop_images\/logo_and_name.png",
     "checkout_body_background_color": "#000000",
     "checkout_input_background_color_mode": "transparent",
+    "checkout_sidebar_background_image": "shopify:\/\/shop_images\/Slide_16_9_-_13.jpg",
+    "checkout_sidebar_background_color": "#000000",
+    "checkout_accent_color": "#aeb0e1",
+    "checkout_button_color": "#aeb0e1",
+    "checkout_error_color": "#e27676",
+    "checkout_layout": "onepage",
     "sections": {
       "main-password-header": {
         "type": "main-password-header",
